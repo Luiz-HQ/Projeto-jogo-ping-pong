@@ -6,7 +6,7 @@
   something.
 </p>
 
-
+<img src="screenshot_1.png" alt="Ping-Pong-Game" width="500" height="600">
 
 
 
